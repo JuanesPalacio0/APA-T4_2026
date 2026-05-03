@@ -1,24 +1,6 @@
 # Cuarta tarea de APA 2023: Generación de números aleatorios
 
-## Nom i cognoms
-
-> [!Important]
-> Introduzca a continuación su nombre y apellidos:
->
-> Fulano Mengano Zutano
-
-## Aviso Importante
-
-> [!Caution]
-> 
-> El objetivo de esta tarea es la implementación y uso de iteradores. Probablemente pueda
-> encontrar en el mercado soluciones más brillantes de las que usted es capaz de escribir,
-> pero, en esta tarea, estamos interesados en conocer su solución, así que el uso de esas
-> otras soluciones está prohibido.
->
-> ¿Quiere saber más?, consulte con el profesorado.
-  
-## Fecha de entrega: 3 de mayo a medianoche
+## Juan Esteban Palacio Ibarra 
 
 ## Generación de números aleatorios usando el algoritmo LGC
 
